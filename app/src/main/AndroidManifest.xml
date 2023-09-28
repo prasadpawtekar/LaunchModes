@@ -20,7 +20,7 @@
         <activity
             android:name=".CentersActivity"
             android:exported="false"
-            android:launchMode="singleTop" />
+            android:launchMode="singleTask" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
